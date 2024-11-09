@@ -1,0 +1,4 @@
+com\demo\pojo\DataBean.class
+com\demo\components\MyKafkaDeserializationSchema$1.class
+com\demo\test\DorisDemo.class
+com\demo\components\MyKafkaDeserializationSchema.class
